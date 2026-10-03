@@ -1,0 +1,4 @@
+build/
+tele
+telemetry_demo
+*.o
